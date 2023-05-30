@@ -1,8 +1,8 @@
 ## Olá! Eu sou o João Paulo
 
 - 🔭 Estou disponível para o mercado de trabalho
-- 🌱 Atualmente estou estudando Vuejs e React, na Alura
-- 📚 Formando em Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estou estudando Vuejs e React, na OneBitCode
+- 📚 Estudante do último semestre do curso de Análise e Desenvolvimento de Sistemas
 
 <div align="center">
   <a href="https://github.com/joaopaulofer">
@@ -29,4 +29,4 @@
   <a href="https://www.linkedin.com/in/joaopaulofer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
